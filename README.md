@@ -1,2 +1,8 @@
 # ShipMank
 Aplikasi pemesanan tiket rekreasi laut yang memudahkan wisatawan dalam memilih dan memesan kapal sesuai lokasi, waktu perjalanan, serta preferensi mereka. ShipMank menyediakan opsi kapal yang sudah terverifikasi kelayakan dan kualitasnya sehingga wisatawan dapat berlibur dengan aman dan nyaman.
+
+Kelompok ShipMank
+Ketua Kelompok: 
+Anggota 1: 
+Anggota 2: 
+Anggota 3: 
