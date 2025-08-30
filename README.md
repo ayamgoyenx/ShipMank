@@ -4,5 +4,5 @@ Aplikasi pemesanan tiket rekreasi laut yang memudahkan wisatawan dalam memilih d
 Kelompok ShipMank<br>
 Ketua Kelompok:<br>
 Anggota 1:<br>
-Anggota 2:<br>
+Anggota 2: P. Atalie Savista Arunata - 23/522436/TK/57668<br>
 Anggota 3:<br>
